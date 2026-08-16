@@ -1,2 +1,1 @@
-# First-Project
-Bank Management system.
+# First-Pro
